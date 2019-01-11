@@ -11,6 +11,12 @@
 # production
 /build
 
+# tools
+/.idea
+
+# API access credentials
+/src/secrets.js
+
 # misc
 .DS_Store
 .env.local
