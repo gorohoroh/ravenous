@@ -12,4 +12,4 @@ This is just a React-based practice project that's part of Codecademy's [Build F
 * Cover with tests
 * Display progress while search is ongoing
 * Try flushing businesses one-by-one
-* Include search criteria into URL
+* Include search criteria into URL: consider using [mapUrlToProps](https://peterbeshai.com/react-url-query/docs/Examples.html#basic-mapurltoprops) from [React URL Query](https://www.npmjs.com/package/react-url-query) - this doesn't require using [React Router](https://reacttraining.com/react-router/web/api/matchPath) or Redux but does involve propTypes; with Redux, [redux-query-sync](https://github.com/Treora/redux-query-sync) is an option
